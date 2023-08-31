@@ -1,0 +1,9 @@
+.divMain{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+[alt="CardImg"]{
+    height: 18rem;
+    width: 15rem;
+}

@@ -1,0 +1,39 @@
+.NavList{
+    display: flex;
+    width: 100vw;
+    justify-content: space-around;
+}
+.NavList li{
+    list-style-type: none;
+   
+    
+}
+.link{
+    text-decoration: none;
+    padding: 1.1rem 3rem;
+    border-radius: 1.2rem;
+  
+}
+.link:hover{
+    background-color: rgb(97, 92, 109);
+    color: whitesmoke;
+
+}
+.mainHeading{
+    color: rgb(45, 32, 32);
+    height: 50vh;
+}
+.welcomeHeading{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 5rem;
+    font-size: 4rem;
+    font-weight: 700;
+    text-shadow: aquamarine;
+
+}
+.tagLine{
+    padding-top: 8rem;
+    font-size: 2rem;
+    margin-left: 20%;
+    
+}
